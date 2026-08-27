@@ -1,0 +1,1 @@
+I learned about how to use github just through terminal. I also learned about how an OS works a lot better.
